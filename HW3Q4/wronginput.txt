@@ -1,0 +1,4 @@
+ab abab
+b a
+aba b
+aa 
